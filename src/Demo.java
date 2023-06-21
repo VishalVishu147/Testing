@@ -37,6 +37,7 @@ public class Demo
           
         /* Display the unencrypted and encrypted passwords. */  
         System.out.println("Plain-text password: " + password);  
+        System.out.println("Plain-text password: " + password); 
         System.out.println("Encrypted password using MD5: " + encryptedpassword);  
     }  
 }  
